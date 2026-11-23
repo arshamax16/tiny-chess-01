@@ -12,7 +12,7 @@ A 4 KB Python chess engine for the make.fun tiny-chess gauntlet. It searches wit
 MAKEFUN_ENV_URL=http://localhost:8080 python3 -P -s main.py
 ```
 
-`main.py` is the packed engine (source: `engine_v6c.py`, compressed with `makefun compress`).
+`main.py` is the packed engine (source: `engine_v7b.py`, compressed with `makefun compress`).
 
 ---
 
